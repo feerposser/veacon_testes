@@ -8,7 +8,7 @@ files_path = os.path.join(os.getcwd(), 'files')
 while True:
     try:
         start = input("Iniciar teste s/n: ")
-        if start != "s":
+        if start != "s" or start != "S":
             break
 
         name = input("Número do teste: ")
