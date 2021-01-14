@@ -1,1 +1,2 @@
 beacontools[scan]
+matplotlib
